@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="X:/PLUGIN/local_policy.jar"/>
+	<classpathentry kind="lib" path="X:/PLUGIN/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="X:/PLUGIN/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="X:/PLUGIN/US_export_policy.jar"/>
+	<classpathentry kind="lib" path="X:/PLUGIN/LookAndFeel/seaglass-demo.jar"/>
+	<classpathentry kind="lib" path="X:/PLUGIN/LookAndFeel/seaglasslookandfeel-0.2.1.jar"/>
+	<classpathentry kind="lib" path="X:/PLUGIN/LookAndFeel/seaglass-site-skin-1.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JPALIB"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
