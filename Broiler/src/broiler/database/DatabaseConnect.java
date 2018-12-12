@@ -34,7 +34,7 @@ public class DatabaseConnect {
 	final private static String host = "localhost";
 	// Database credentials//#FIXME
 	final private static String USER = "root";
-	final private static String PASS = "S4!RENT0";
+	final private static String PASS = "";
 	// #FIXME
 	private static final String DB_URL = "jdbc:mysql://" + host + "/" + database
 			+ "?verifyServerCertificate=false&useSSL=false" // bypassing the certificate validation
